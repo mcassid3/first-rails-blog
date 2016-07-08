@@ -14,3 +14,13 @@
  *= require_self
  */
 
+html {
+  color: grey;
+}
+div.container {
+  width: 70%;
+  margin: 0 auto;
+  background-color: #AED6F1;
+  padding: 20px;
+  border: 1px solid #85C1E9;
+}
